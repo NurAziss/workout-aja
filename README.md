@@ -1,6 +1,6 @@
 # 🏋️‍♂️ workout-aja
 "Latihan gak perlu ribet, tinggal buka app-nya dan langsung workout!"
-untuk menampilkan hasil klik link di bawah ini.
+untuk menampilkan hasil klik link ini.
 (https://nuraziss.github.io/workout-aja/)
 # 📱 Aplikasi workout sederhana berbasis Flutter yang dirancang untuk membantu kamu tetap aktif dan sehat di mana saja, kapan saja. Mulai dari pemula hingga yang sudah pro, workout-aja hadir sebagai teman latihan digitalmu!
 
